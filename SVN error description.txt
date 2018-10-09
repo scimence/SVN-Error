@@ -1,0 +1,14 @@
+
+1¡¢Commit failed. Please execute the 'Cleanup' command.
+
+Commit
+Commit failed (details follow):
+Working copy 'E:\GitHub\ChannelDemo' locked.
+'E:\GitHub\ChannelDemo' is already locked.
+Please execute the 'Cleanup' command.
+
+2¡¢
+Previous operation has not finished; 
+run 'cleanup' if it was interrupted
+
+
